@@ -1,0 +1,17 @@
+.form{
+    margin-left: 500px;
+    border: 1px solid;
+    padding: 30px;
+    width: 350px;
+    border-radius: 20px;
+    background-color: rgb(103, 154, 221);
+    color: whitesmoke;
+}
+.heading{
+    margin-left: 90px;
+    margin-top: -10px;
+}
+.text{
+    text-decoration: none;
+   
+}
